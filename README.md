@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sonder3-14
+- 👋 Hi, I’m @sonder3-14 aka Matthew
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning how to
-- 💞️ I’m looking to collaborate on a website with an e-store
+- 🌱 I’m currently learning how to use GitHub
+- 💞️ I’m looking to collaborate on an e-commerce website
 - 📫 You can reach me by email. connolly.p.matthew@gmail.com
 
 <!---
